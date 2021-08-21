@@ -1,2 +1,4 @@
 Merhaba
 ikinci satir
+remote masterdan gelen guncelleme
+remote masterdan ikinci satir
